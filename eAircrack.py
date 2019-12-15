@@ -34,4 +34,4 @@ while True :
 		os.system('aircrack-ng -w {0} -b {1} {2}'.format(dic, mac, Hshake))
 
 
-	# DC:E3:05:81:FB:77  DC:E3:05:81:FB:77  5C:C3:07:90:B7:42
+
