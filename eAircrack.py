@@ -1,5 +1,5 @@
 import os
-ys = input("Do you realy want do this? [y/s]")
+ys = input("Do you realy want do this? [y/n]")
 
 if ys == 'y':
 	os.system('airmon-ng check kill')
