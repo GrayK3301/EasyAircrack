@@ -12,7 +12,7 @@ Brooding - Brooding the password:)
 
 WpaC - Make clean handshake
 
-Deauth - Forced shutdown of users connection with wifi
+DeAuth - Forced shutdown of users connection with wifi
 
 
 
